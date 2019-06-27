@@ -3,9 +3,9 @@
 }
 
 body{
-    background-image:url('/image/backround.jpg');
+    background-image:url('/image/background.jpg');
     background-repeat:no reapeat;
-    background-position:center;
+    background-position:50%,50%;
 }
 
 h1{
