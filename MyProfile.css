@@ -3,7 +3,9 @@
 }
 
 body{
-    background-color: #EEEEEE;
+    background-image:url('/image/backround.jpg');
+    background-repeat:no reapeat;
+    background-position:center;
 }
 
 h1{
