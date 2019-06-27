@@ -1,0 +1,32 @@
+.center{
+    background-color:#0066CC;
+}
+
+body{
+    background-color: #EEEEEE;
+}
+
+h1{
+    color:#EEEEEE;
+    padding: 10px 0;
+    border-bottom: 1px solid #666666;
+    font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+h2{
+    text-indent: 25em;
+    color:#333300;
+    font-family:Arial,Verdana,Sans-serif;
+}
+
+.likeP{
+    text-indent: 38em;
+    color:#000033;
+    font-family:"Times New Roman",Georgia,Serif;
+}
+
+p{
+    text-indent: 38em;
+    color:#000033;
+    font-family:"Times New Roman",Georgia,Serif;
+}
