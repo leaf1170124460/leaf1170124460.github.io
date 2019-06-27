@@ -10,6 +10,7 @@ body{
     background-position:50%,50%;
     background-attachment:fixed;
 }
+
 body{
     background-color:#000000;
     opacity:0.6;
@@ -24,18 +25,18 @@ h1{
 
 h2{
     text-indent: 25em;
-    color:#333300;
+    color:#EEEEEE;
     font-family:Arial,Verdana,Sans-serif;
 }
 
 .likeP{
     text-indent: 38em;
-    color:#000033;
+    color:#EEEEEE;
     font-family:"Times New Roman",Georgia,Serif;
 }
 
 p{
     text-indent: 38em;
-    color:#000033;
+    color:#EEEEEE;
     font-family:"Times New Roman",Georgia,Serif;
 }
