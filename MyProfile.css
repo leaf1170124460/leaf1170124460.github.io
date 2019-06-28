@@ -10,11 +10,7 @@ body{
     background-repeat:no reapeat;
     background-position:50%,50%;
     background-attachment:fixed;
-}
-
-body{
-    background-color:#000000;
-    opacity:0.6;
+    color:#EEEEEE;
 }
 
 h1{
@@ -25,23 +21,44 @@ h1{
     font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
 
-h2{
-    opacity:1;
-    text-indent: 25em;
-    color:#EEEEEE;
+#left{
+    background-color:#000000;
+    opacity:0.6;
+    float:left;
+    width:50%;
+    height:100%;
+    padding:10px;
+}
+
+#right{
+    background-color:#000000;
+    opacity:0.6;
+    float:right;
+    width:45%;
+    height:100%;
+    padding:10px;
+}
+
+#left h2{
     font-family:Arial,Verdana,Sans-serif;
 }
 
-.likeP{
-    opacity:1;
-    text-indent: 38em;
-    color:#EEEEEE;
+#left .likeP{
     font-family:"Times New Roman",Georgia,Serif;
 }
 
-p{
-    opacity:1;
-    text-indent: 38em;
-    color:#EEEEEE;
+#left p{
+    font-family:"Times New Roman",Georgia,Serif;
+}
+
+#right h2{
+    font-family:Arial,Verdana,Sans-serif;
+}
+
+#right.likeP{
+    font-family:"Times New Roman",Georgia,Serif;
+}
+
+#right p{
     font-family:"Times New Roman",Georgia,Serif;
 }
