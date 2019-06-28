@@ -34,7 +34,7 @@ h1{
     background-color:#000000;
     opacity:0.6;
     float:right;
-    width:45%;
+    width:46%;
     height:100%;
     padding:10px;
 }
@@ -44,10 +44,13 @@ h1{
 }
 
 #left .likeP{
+    color:#EEEEEE;
+    text-indent: 3%;
     font-family:"Times New Roman",Georgia,Serif;
 }
 
 #left p{
+    text-indent: 3%;
     font-family:"Times New Roman",Georgia,Serif;
 }
 
@@ -56,9 +59,12 @@ h1{
 }
 
 #right.likeP{
+    color:#EEEEEE;
+    text-indent: 3%;
     font-family:"Times New Roman",Georgia,Serif;
 }
 
 #right p{
+    text-indent: 3%;
     font-family:"Times New Roman",Georgia,Serif;
 }
