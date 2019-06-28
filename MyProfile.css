@@ -1,6 +1,8 @@
 .center{
     opacity:1;
     background-color:#0066CC;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 body{
@@ -11,6 +13,9 @@ body{
     background-position:50%,50%;
     background-attachment:fixed;
     color:#EEEEEE;
+    margin-left:auto;
+    margin-right:auto;
+    width: 80%;
 }
 
 h1{
@@ -25,7 +30,7 @@ h1{
     background-color:#000000;
     opacity:0.6;
     float:left;
-    width:50%;
+    width:45%;
     height:100%;
     padding:10px;
 }
@@ -34,7 +39,7 @@ h1{
     background-color:#000000;
     opacity:0.6;
     float:right;
-    width:46%;
+    width:45%;
     height:100%;
     padding:10px;
 }
