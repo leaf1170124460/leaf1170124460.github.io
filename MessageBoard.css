@@ -1,0 +1,58 @@
+*{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#header{
+    opacity:1;
+    background-color:#1DB0B8;
+    height:50px;
+    text-align:center;
+    line-height:50px;
+}
+
+h1{
+    color:#FFFFFF;
+    text-indent: 3%;
+    font-family:Arial,Verdana,Sans-serif;
+}
+
+body{
+    background-image:url(./image/messageBackground.jpg);
+    width:100%;
+    height:100%;
+    background-repeat:no reapeat;
+    background-position: center 0;
+    background-attachment:fixed;
+    background-size:cover;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#left{
+    background-color:#00343F;
+    opacity:0.4;
+    float:left;
+    width:50%;
+    height:100%;
+}
+
+#right{
+    background-color:#00343F;
+    opacity:0.4;
+    float:right;
+    width:50%;
+    height:100%;
+}
+
+h2{
+    opacity:1;
+    color:#FFFFFF;
+    text-indent: 3%;
+    font-family:Arial,Verdana,Sans-serif;
+}
+
+p{
+    opacity:1;
+    text-indent:3%;
+}
