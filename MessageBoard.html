@@ -5,7 +5,7 @@
         <title>MessageBoard</title>
         <link rel="stylesheet" type="text/css" href="MessageBoard.css"/>
         <div id="header">
-            <h1>Message Board(Version1.0)</h1>
+            <h1>Message Board(Version1.1)</h1>
         </div>
     </head>
 
@@ -14,19 +14,22 @@
             <h1>MESSAGE EDITOR</h1>
 			<form>
 				<h2>Name</h2>
+				<br />
 				<p>
 					<input id="nameBox" type="text" name="name" value="input your name here">
 				</p>
 				<br />
 		
 				<h2>Message</h2>
+				<br />
 				<p>
-					<textarea id="messageBox" rows="10" cols="30">input your message here.</textarea>
+					<textarea id="messageBox">input your message here.</textarea>
 				</p>
 				<br />
-				
-				<input type="button" value="Submit" onclick="showMessage();">
-            </form> 
+				<p>
+					<input id="submit" type="button" value="Submit" onclick="showMessage();">
+				</p>
+			</form> 
         </div>
 
         <div id="left">
