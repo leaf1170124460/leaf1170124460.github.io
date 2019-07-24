@@ -6,7 +6,7 @@ function showMessage(){
 	var time=document.getElementById("time");
 	var date=new Date();
 	var curTime=date.toLocaleString();
-	var messageString="<h3><em>"+messageBox+"<em></h3>";
+	var messageString="<h3><em>"+messageBox+"</em></h3>";
 	message.innerHTML=messageString;
 	var nameString="<h3><em>"+nameBox+"</em></h3>";
 	name.innerHTML=nameString;
