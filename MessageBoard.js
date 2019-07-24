@@ -6,10 +6,10 @@ function showMessage(){
 	var time=document.getElementById("time");
 	var date=new Date();
 	var curTime=date.toLocaleString();
-	var messageString="<br /><h3>"+messageBox+"</h3><br />";
+	var messageString="<h3><em>"+messageBox+"<em></h3>";
 	message.innerHTML=messageString;
-	var nameString="<br /><h3>"+nameBox+"</h3><br />";
+	var nameString="<h3><em>"+nameBox+"</em></h3>";
 	name.innerHTML=nameString;
-	var timeString="<br /><h3>"+curTime+"</h3><br />";
+	var timeString="<h3><em>"+curTime+"</em></h3>";
 	time.innerHTML=timeString;
 }
