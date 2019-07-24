@@ -49,20 +49,18 @@ body{
 }
 
 h2{
+	color:#FFFFFF;
     opacity:1;
-    color:#FFFFFF;
     text-indent: 3%;
+	font-style:italic;
     font-family:Arial,Verdana,Sans-serif;
 }
 
 p{
+	opacity:1;
+	color:#FFFFFF;
 	text-indent: 6%;
-	font-family:Palatino Linotype, Book Antiqua, Palatino, serif;
-}
-
-h3{
-    color:#FFFFFF;
-    text-indent: 6%;
+	font-style:italic;
 	font-family:Palatino Linotype, Book Antiqua, Palatino, serif;
 }
 
@@ -76,27 +74,22 @@ h3{
 	width:89%;
 }
 
-#right #submit{
+#submit{
 	opacity:1;
 	height:25px;
 	width:20%;
 }
 
-#left #message{
-	height:20px;
-	color:#FFFFFF;
+#message{
+	text-align:6%;
 }
 
 #name{
-	height:10px;
-	color:#181818;
 	text-align:right;
 	font-size:15px;
 }
 
 #time{
-	height:5px;
-	color:#181818;
 	text-align:right;
 	font-size:10px;
 }
