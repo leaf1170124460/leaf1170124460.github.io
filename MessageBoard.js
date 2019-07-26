@@ -10,3 +10,19 @@ function showMessage(){
 	name.firstChild.nodeValue=nameBox.value;
 	time.firstChild.nodeValue=curTime;
 }
+
+function prepareLinks(){
+	if(!document.getElementById){
+		alert("Sorry, your browser dosen't support javascript.");
+		return false;
+	}
+	var button=document.getElementById("submit");
+	button.onclick=function(){
+		showMessage();
+		return false;
+	}
+}
+
+window.onload=prepareLinks;
+
+

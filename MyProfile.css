@@ -1,3 +1,8 @@
+*{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
 .center{
     opacity:1;
     background-color:#0066CC;
@@ -6,69 +11,57 @@
 }
 
 body{
-    background-image:url(/image/background.jpg);
-    width:100%;
-    height:100%;
+    background-image:url(./image/background.jpg);
     background-repeat:no reapeat;
-    background-position:50%,50%;
+    background-position: center 0;
     background-attachment:fixed;
-    color:#EEEEEE;
+    background-size:cover;
     margin-left:auto;
     margin-right:auto;
+    color:#EEEEEE;
+    line-height: 40px;
 }
 
 h1{
     opacity:1;
     color:#EEEEEE;
-    padding: 10px 0;
-    border-bottom: 1px solid #666666;
     font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    line-height: 50px;
 }
 
 #left{
     background-color:#000000;
     opacity:0.6;
     float:left;
-    width:48%;
+    width:50%;
     height:100%;
-    padding:10px;
 }
 
 #right{
     background-color:#000000;
     opacity:0.6;
     float:right;
-    width:48%;
+    width:50%;
     height:100%;
-    padding:10px;
 }
 
-#left h2{
+h2{
+    margin-top: 10px;
     font-family:Arial,Verdana,Sans-serif;
+    text-align:center;
+    color:#FFFFFF;
 }
 
-#left .likeP{
-    color:#EEEEEE;
-    text-indent: 3%;
+a{
+    color:rgb(212, 212, 212);
+}
+
+.likeP{
     font-family:"Times New Roman",Georgia,Serif;
+    text-align:center;
 }
 
-#left p{
-    text-indent: 3%;
+p{
     font-family:"Times New Roman",Georgia,Serif;
-}
-
-#right h2{
-    font-family:Arial,Verdana,Sans-serif;
-}
-
-#right.likeP{
-    color:#EEEEEE;
-    text-indent: 3%;
-    font-family:"Times New Roman",Georgia,Serif;
-}
-
-#right p{
-    text-indent: 3%;
-    font-family:"Times New Roman",Georgia,Serif;
+    text-align:center;
 }
