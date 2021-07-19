@@ -1,36 +1,45 @@
 {
-    "class":[
+    "classes":[
         {
-            "path":"package_name/calculator.dart",
-            "name":"Calculator",
-            "method":[
+            "path":"package_name/calculator.json",
+            "name":"package_name/calculator.dart/Calculator",
+            "isDynamic":true,
+            "startLine":1,
+            "endLine":8,
+            "methods":[
                 {
                     "name":"add",
                     "path":"package_name/calculator.json",
+                    "isDynamic":true,
                     "startLine":2,
                     "endLine":4
                 },
                 {
                     "name":"sub",
                     "path":"package_name/calculator.json",
+                    "isDynamic":true,
                     "startLine":5,
                     "endLine":7
                 }
             ]
         },
         {
-            "path":"package_name/lib/calculator.dart",
-            "name":"Calculator",
-            "method":[
+            "path":"package_name/lib/calculator.json",
+            "name":"package_name/lib/calculator/Calculator",
+            "startLine":1,
+            "endLine":8,
+            "methods":[
                 {
                     "name":"mul",
                     "path":"package_name/lib/calculator.json",
+                    "isDynamic":true,
                     "startLine":2,
                     "endLine":4
                 },
                 {
                     "name":"div",
                     "path":"package_name/lib/calculator.json",
+                    "isDynamic":false,
                     "startLine":5,
                     "endLine":7
                 }
