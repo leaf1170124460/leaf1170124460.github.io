@@ -1,0 +1,8 @@
+{
+    "add": {
+        "data": "call add() from calculator"
+    },
+    "sub" {
+        "data": "call sub() from calculator"
+    }
+}
