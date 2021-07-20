@@ -4,5 +4,8 @@
     },
     "sub" {
         "data": "call sub() from calculator"
+    },
+    "sum" {
+        "data": "call sum() from calculator"
     }
 }

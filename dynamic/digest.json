@@ -5,12 +5,12 @@
             "name":"package_name/calculator.dart/Calculator",
             "isDynamic":true,
             "startLine":1,
-            "endLine":8,
+            "endLine":11,
             "methods":[
                 {
                     "name":"add",
                     "path":"package_name/calculator.json",
-                    "isDynamic":true,
+                    "isDynamic":false,
                     "startLine":2,
                     "endLine":4
                 },
@@ -20,6 +20,13 @@
                     "isDynamic":true,
                     "startLine":5,
                     "endLine":7
+                },
+                {
+                    "name":"sum",
+                    "path":"package_name/calculator.json",
+                    "isDynamic":true,
+                    "startLine":8,
+                    "endLine":10
                 }
             ]
         },
