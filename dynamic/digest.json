@@ -31,21 +31,21 @@
             ]
         },
         {
-            "path":"package_name/lib/cal.json",
-            "name":"package_name/lib/cal.dart/Calculator",
+            "path":"package_name/lib/calculator.json",
+            "name":"package_name/lib/calculator.dart/Calculator",
             "startLine":1,
             "endLine":8,
             "methods":[
                 {
                     "name":"mul",
-                    "path":"package_name/lib/cal.json",
+                    "path":"package_name/lib/calculator.json",
                     "isDynamic":true,
                     "startLine":2,
                     "endLine":4
                 },
                 {
                     "name":"div",
-                    "path":"package_name/lib/cal.json",
+                    "path":"package_name/lib/calculator.json",
                     "isDynamic":false,
                     "startLine":5,
                     "endLine":7
