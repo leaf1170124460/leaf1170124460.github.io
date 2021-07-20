@@ -25,7 +25,7 @@
         },
         {
             "path":"package_name/lib/calculator.json",
-            "name":"package_name/lib/calculator/Calculator",
+            "name":"package_name/lib/calculator.dart/Calculator",
             "startLine":1,
             "endLine":8,
             "methods":[
