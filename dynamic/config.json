@@ -1,0 +1,20 @@
+{
+    "config":[
+        {
+            "name":"package_name/calculator.dart/Calculator",
+            "isDynamic":true
+        },
+        {
+            "name":"package_name/calculator.dart/Calculator:add",
+            "isDynamic":true
+        },
+        {
+            "name":"package_name/calculator.dart/Calculator:sub",
+            "isDynamic":false
+        },
+        {
+            "name":"package_name/calculator.dart/Calculator:mul",
+            "isDynamic":false
+        }
+    ]
+}
