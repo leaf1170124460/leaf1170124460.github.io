@@ -15,6 +15,14 @@
         {
             "name":"package_name/calculator.dart/Calculator:mul",
             "isDynamic":false
+        },
+        {
+            "name":"flutter_dynamic_demo/lib/module/code_builder_demo/code_builder_demo_page.dart/_CodeBuilderDemoPageState:noParamTestFunction",
+            "isDynamic":true
+        },
+        {
+            "name":"flutter_dynamic_demo/lib/module/code_builder_demo/code_builder_demo_page.dart/_CodeBuilderDemoPageState:paramTestFunction",
+            "isDynamic":true
         }
     ]
 }
