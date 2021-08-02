@@ -29,8 +29,20 @@
             "isDynamic":false
         },
         {
-            "name":"flutter_dynamic_demo/lib/module/code_builder_demo/code_builder_demo_page.dart/_CodeBuilderDemoPageState:paramTestFunctionNotDynamic",
-            "isDynamic":false
+            "name":"flutter_dynamic_demo/lib/module/dnflutter_test/dnflutter_test_page.dart/_DNFlutterTestPageState:withoutParamFunc",
+            "isDynamic":true
+        },
+        {
+            "name":"flutter_dynamic_demo/lib/module/dnflutter_test/dnflutter_test_page.dart/_DNFlutterTestPageState:withParamFunc",
+            "isDynamic":true
+        },
+        {
+            "name":"flutter_dynamic_demo/lib/module/dnflutter_test/dnflutter_test_page.dart/_DNFlutterTestPageState:withoutParamStaticFunc",
+            "isDynamic":true
+        },
+        {
+            "name":"flutter_dynamic_demo/lib/module/dnflutter_test/dnflutter_test_page.dart/_DNFlutterTestPageState:withParamStaticFunc",
+            "isDynamic":true
         }
     ]
 }
