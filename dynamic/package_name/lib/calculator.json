@@ -1,8 +1,0 @@
-{
-    "mul": {
-        "data": "call mul() from lib/calculator"
-    },
-    "div" {
-        "data": "call div() from lib/calculator"
-    }
-}
