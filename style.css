@@ -134,5 +134,8 @@ body {
   text-align: center;
 }
 .text h1 {
+  font-size: 2em;
+}
+.text p {
   font-size: 1.4em;
 }
